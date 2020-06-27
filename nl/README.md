@@ -1,0 +1,205 @@
+<!-- Version: 0.01 NL -->
+
+| <a href="/" >English</a> | <a href="/de/">Deutsch</a> | <a href="/es/">Español</a> | <a href="/nl/">Nederlands</a>
+
+###### Belangrijke Principes
+- Simpel beginnen en jezelf verbeteren is beter dan helemaal niet beginnen
+- Iets gebruiken & ermee experimenteren is leuker dan een uitgebreide uitleg lezen
+- Blijf altijd in controle van je bitcoin (zorg dat je een wallet gebruikt waar je zelf je 24 woorden-sleutel bijhoudt)
+- Vermijd oplichting, gebruik bitcoin-only diensten
+
+| Stap | Beschrijving                                   |Gedaan?|
+| ---- | -----------                                    |---|
+| 1. | Installeer een wallet                            |   |
+| 2. | Koop wat bitcoin                                 |   |
+| 3. | Waarom bitcoin?                                  |   |
+| 4. | Wat is bitcoin?                                  |   |
+| 5. | Meer leren over bitcoin                          |   |
+| 6. | Een betere backup maken                          |   |
+| 7. | Een "node" gebruiken                             |   |
+| 8. | Betrokkenheid                                    |   |
+| 9. | Bitcoin Privacy                                  |   |
+| 10. | Micro-betalingen via Lightning                  |   |
+| 11. | Technische Details                              |   |
+| 12. | Privacy-vriendelijk bitcoin kopen               |   |
+
+-----
+
+## Stap 1. Installeer een wallet
+*Doel: Een wallet aanmaken en back-uppen*
+
+1. 	Download de <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
+2.	Volg de stappen in de app om een nieuwe wallet aan te maken. De 24 woorden die je opschrijft zijn de sleutel tot jouw bitcoin!
+3.  Maak een kopie van de 24 woorden en bewaar ze veilig, bijvoorbeeld in je kluis.
+4.	Om bitcoin te ontvangen klik je op "receive" en kopieer je het adres dat je te zien krijgt. 
+
+-----
+
+## Stap 2. Koop wat bitcoin 
+*Doel: Een kleine hoeveelheid bitcoin in je wallet krijgen*
+
+- Koop om te beginnen een klein beetje bitcoin, zodat je weet hoe het werkt
+- De eerste manier is snel & makkelijk, maar is niet privé - de verkoper weet dus wie je bent
+- Hoe je bitcoin op een privé-manier kunt kopen lees je in <a href="#step-12-buying-privately" target="_blank">stap 12</a>
+- Bitcoin-intro heeft geen connectie met de hieronder genoemde manieren om bitcoin te kopen
+
+##### Bitonic - iDeal of Bancontact
+0.  Ga naar <a href="https://bitonic.nl/" target="_blank">bitonic.nl</a>
+1.	Vul in hoeveel euro aan bitcoin je wilt kopen
+2.	Plak je ontvangstadres (zie punt 4 van stap 1) in het eerste veld en vul het formulier verder in
+3.	Volg de verificatiestappen
+4.	De bitcoin worden automatisch naar je wallet gestuurd zodra je geverifieerd bent (hoeft maar 1x)
+
+Gefeliciteerd! Je hebt nu (een gedeelte van een) bitcoin. Zo lang je de 24 woorden van je wallet veilig houdt, kan niemand bij je bitcoin komen.
+
+-----
+
+## Stap 3. Waarom bitcoin?
+*Doel: Leren waarom bitcoin belangrijk is*
+
+1. Lees '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz) (Engels)
+2. Lees '<a href="https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1" target="_blank">The Bullish Case for Bitcoin</a>' by [Vijay Boyapati](https://twitter.com/real_vijay) (Engels)
+3. Kijk '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Why Bitcoin Matters</a>' by [Aleks Svetski](https://twitter.com/AleksSvetski) (Engels)
+
+-----
+
+## Stap 4. Wat is bitcoin?
+*Doel: Leren wat bitcoin nu eigenlijk is*
+
+1. Lees '<a href="https://bitcoin-only.com/#bitcoin" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
+2. Kijk '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' by [RT](https://twitter.com/RT_com)
+3. Luister '<a href="https://soundcloud.com/cafe_weltschmerz/bitcoin-is-revolutionair-en" target="_blank">Bitcoin is revolutionair en goed geld</a>' door [Café Weltschmerz](https://www.cafeweltschmerz.nl/)
+
+-----
+
+## Stap 5. Further Learning
+*Doel: Further develop your understanding of bitcoin*
+
+###### Listen
+1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">The Bitcoin Standard</a>
+2. <a href="https://youtu.be/OrMHQhDKhrU" target="_blank">Intro to Bitcoin Austrian thought</a>
+
+###### Read
+1. <a href="https://www.amazon.com/dp/1641990503" target="_blank">The Little Bitcoin Book</a>
+2. <a href="https://www.amazon.com/Bitcoin-Sovereignty-mathematics-Knut-Svanholm/dp/1090109911" target="_blank">Sovereignty through mathematics</a>
+3. <a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861" target="_blank">The Bitcoin Standard</a> (<a href="https://www.podbean.com/eu/pb-48576-a563c0" target="_blank">Listen</a> to the prologue)
+
+-----
+
+## Stap 6. Better Backup
+*Doel: Improve your backup so you are ready in-case bitcoin goes up in price or you decide to buy more.*
+
+1. Read the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
+2. Pick a setup (e.g. Two full backups, one on paper one on stamped metal)
+3. Implement your selected setup
+
+-----
+
+# Stap 7. Running a Node
+*Doel: Understand how and why bitcoiners run their own full nodes.*
+
+Note: Running a node only benefits you if you use your node to send and receive transactions.
+
+1. Watch <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
+2. Evaluate below tables to determine which route seems most suitable given:
+
+
+|                       | Route A       | Route B       | Route C       | Route D       |  
+| --                    | --            | --            | --            | --            |
+| Cost                  | Zero          | Zero          | Low           | **High**      |
+| Time Requirement      | Low           | **High**      | **Mid/High**  | Low           |
+| Setup Difficulty      | Low           | **High**      | Mid           | Low           |
+| Downtime              | **High**      | Low           | Low           | Low           |
+
+
+| Route | Ideal User | Positives     | Negatives     |
+| --            | --            | --    | -- |
+| A | Non-technical Beginner | Free, Easy and Quick | When your computer is off your node will not be running so when you do want to use it you will have to wait for it to sync.|
+| B | Technical Enthusiast | Free | Requires significant time to setup & is technologically difficult if you have not used linux before.|
+| C | Less Technical Enthusiast | Reasonably low cost & quick | Requires some time to setup though typically guides specify hardware making setup as simple as following instructions precisely. |
+| D | Anyone who can comfortably afford this option | Quick and Easy | High cost compared to alternatives |
+
+##### Route A: Bitcoin-Core on your day to day computer
+- Download <a href="https://github.com/lightning-power-users/node-launcher/releases" target="_blank">NodeLauncher</a>, a simple program to help you intstall bitcoin core.
+
+##### Route B: Bitcoin-core on an available always-on computer
+- Video Tutorial: <a href="https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h" target="_blank">Install Linux</a> & <a href="https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk" target="_blank">Install Core</a>
+- Written Tutorial <a href="https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea" target="_blank">Option 1 </a> / <a href="https://github.com/k3tan172/ubuntu-node-box/" target="_blank">Option 2</a>
+
+
+##### Route C: Build a standalone node
+- Enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/" target="_blank">MyNodeBTC</a>
+- Samourai Wallet Users: <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a>
+- Other Options: <a href="https://stadicus.github.io/RaspiBolt/" target="_blank">RaspiBolt</a> / <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a>
+
+##### Route D: Buy a pre-built standalone node
+- Price sensitive enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://raspiblitz.com/" target="_blank">Raspiblitz</a> (<a href="https://shop.fulmo.org/" target="_blank">EU</a> / <a href="https://lightninginabox.co/product/raspiblitz-raspberry-pi-lightning-node/" target="_blank">USA </a>)
+- Enthusiasts who want high performance: <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a>
+
+-----
+
+## Stap 8. Joining In
+*Doel: Discover how to get involved in discussions about bitcoin.*
+
+1. Attend a <a href="https://bitcoin-only.com/#meetups" target="_blank">local meetup</a>
+2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Subscribe</a> to bitcoin op-tech
+3. Join Twitter and follow bitcoiners you come across.
+
+-----
+
+## Stap 9. Bitcoin privacy
+*Doel: Understand how and why to use bitcoin in a private way*
+
+1. Read how to <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">Hodl Privately</a>
+2. Read about <a href="https://6102bitcoin.com/img/001_What_is_bitcoin_taint.png" target="_blank">What is bitcoin taint</a>,  <a href="https://6102bitcoin.com/img/002_Are_Chain_Analysis_Heuristics_Reliable.png" target="_blank">Are Chain Analysis Heuristics reliable</a> & <a href="https://6102bitcoin.com/img/003_Blacklisting_Distance_Proximity.png" target="_blank">Blacklisting, Distance & Proximity</a>
+3. Learn more about <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_Discussion/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>
+
+-----
+
+## Stap 10. Bitcoin MicroPayments
+*Doel: Understand what the lightning network is and how you can use it.*
+
+1. Download a non-custodial bitcoin lightning wallet
+2. Transfer some bitcoin to it (a small amount)
+3. Send bitcoin over lightning
+4. Watch <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
+5. Read <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
+
+-----
+
+## Stap 11. Technical Details
+*Doel: Better understand how bitcoin works & the terminology*
+
+1. Watch <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
+2. Watch <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
+
+-----
+
+## Stap 12. Buying Privately
+
+Though the methods explained in Step 2 are simple and easy for buying your first bitcoin it is worth considering more private options for further buying.
+
+##### Overview table
+
+|                       | Private Methods       | Semi-Private Methods  | Non-Private Methods   |
+| ---                   | ---                   | ---                   | ---                   |
+| Method of Payment     | Cash                  | Bank Transfer         | Debit Card            |
+| Interface             | In person             | Website               | Website               |
+| Email & Phone         | **Not Required**      | Required              | Required              |
+| Name & Address        | **Not Required**      | **Not Required**      | Required              |
+| Relative Privacy      | **Great**             | Fair                  | Fair                  |
+| Examples              | BISQ / Vouchers | Bittr          | CashApp / Bull Bitcoin |
+
+##### BISQ
+0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Install BISQ
+1. Set local currency
+2. Look for local sellers (Select BUY BTC button on top ribbon )
+3. Buy from local seller (Select Create new offer to buy BTC with ... )
+4. Withdraw bitcoin to bitcoin address from Step 1.
+
+*Note: As stated when installing BISQ, the user is responsible for using the software in compliance with local laws.*
+
+##### Vouchers
+0.  Check whether there are any merchants near you who sell vouchers on <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> or <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
+1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
+2.  When prompted, paste your first bitcoin address from Step 1.
