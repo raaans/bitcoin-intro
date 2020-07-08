@@ -75,89 +75,89 @@ Gefeliciteerd! Je hebt nu (een gedeelte van een) bitcoin. Zo lang je de 24 woord
 ## Stap 5. Further Learning
 *Doel: Further develop your understanding of bitcoin*
 
-###### Listen
-1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">The Bitcoin Standard</a>
+###### Luister
+1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">Presentatie over The Bitcoin Standard</a> 
 2. <a href="https://youtu.be/OrMHQhDKhrU" target="_blank">Intro to Bitcoin Austrian thought</a>
 
-###### Read
-1. <a href="https://www.amazon.com/dp/1641990503" target="_blank">The Little Bitcoin Book</a>
-2. <a href="https://www.amazon.com/Bitcoin-Sovereignty-mathematics-Knut-Svanholm/dp/1090109911" target="_blank">Sovereignty through mathematics</a>
-3. <a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861" target="_blank">The Bitcoin Standard</a> (<a href="https://www.podbean.com/eu/pb-48576-a563c0" target="_blank">Listen</a> to the prologue)
+###### Lees
+1. <a href="https://www.managementboek.nl/boek/9781641990509/the-little-bitcoin-book-engels-timi-ajiboye" target="_blank">The Little Bitcoin Book</a>
+2. <a href="https://www.bol.com/nl/p/bitcoin/9200000112852580/?bltgh=ibKnFxFSz-etqY1-UEdKAw.1_4.6.ProductTitle" target="_blank">Sovereignty through mathematics</a>
+3. <a href="https://www.bol.com/nl/p/the-bitcoin-standard/9200000082670696/?bltgh=iT9WCKyIBJgJo6gXXUdEjQ.1_4.5.ProductTitle" target="_blank">The Bitcoin Standard</a> (binnenkort <a href="https://konsensus.network/product/de-bitcoin-standaard/" target="_blank">in het Nederlands beschikbaar</a>)
 
 -----
 
-## Stap 6. Better Backup
-*Doel: Improve your backup so you are ready in-case bitcoin goes up in price or you decide to buy more.*
+## Stap 6. Een Betere Backup Maken
+*Doel: Een betere backup maken van je wallet, zodat je minder makkelijk je geld kwijtraakt*
 
-1. Read the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
-2. Pick a setup (e.g. Two full backups, one on paper one on stamped metal)
-3. Implement your selected setup
+1. Lees de <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
+2. Kies een versie (Bv. een papieren of metalen backup)
+3. Volg de stappen voor jouw keuze
 
 -----
 
-# Stap 7. Running a Node
-*Doel: Understand how and why bitcoiners run their own full nodes.*
+# Stap 7. Een 'Node' gebruiken
+*Doel: Het hoe en waarom van een 'Node' begrijpen.*
 
-Note: Running a node only benefits you if you use your node to send and receive transactions.
+N.b.: Het gebruiken van een Node heeft alleen maar voordeel als je hem ook daadwerkelijk gebruikt voor het verzenden en ontvangen van je eigen transacties.
 
-1. Watch <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
-2. Evaluate below tables to determine which route seems most suitable given:
+1. Kijk <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
+2. Bekijk de volgende opties:
 
 
-|                       | Route A       | Route B       | Route C       | Route D       |  
+|                       | Optie A       | Optie B       | Optie C       | Optie D       |  
 | --                    | --            | --            | --            | --            |
-| Cost                  | Zero          | Zero          | Low           | **High**      |
-| Time Requirement      | Low           | **High**      | **Mid/High**  | Low           |
-| Setup Difficulty      | Low           | **High**      | Mid           | Low           |
-| Downtime              | **High**      | Low           | Low           | Low           |
+| Kosten                | Nul           | Nul           | Laag          | **Hoog**      |
+| Tijdsinvestering      | Laag          | **Hoog**      | **Gemiddeld** | Laag          |
+| Moeilijkheidsgraad    | Laag          | **Hoog**      | Gemiddeld     | Laag          |
+| Downtime              | **Hoog**      | Laag          | Laag          | Laag          |
 
 
-| Route | Ideal User | Positives     | Negatives     |
-| --            | --            | --    | -- |
-| A | Non-technical Beginner | Free, Easy and Quick | When your computer is off your node will not be running so when you do want to use it you will have to wait for it to sync.|
-| B | Technical Enthusiast | Free | Requires significant time to setup & is technologically difficult if you have not used linux before.|
-| C | Less Technical Enthusiast | Reasonably low cost & quick | Requires some time to setup though typically guides specify hardware making setup as simple as following instructions precisely. |
-| D | Anyone who can comfortably afford this option | Quick and Easy | High cost compared to alternatives |
+| Route | Ideaal voor:              | Positieve punten          | Negatieve punten      |
+| --    | --                        | --                        | --                    |
+| A     | Niet-technische beginner  | Gratis, makkelijk, snel   | Je node staat uit als je computer uit staat, dus je moet steeds wachten op her-synchronisatie |
+| B     | Technische personen       | Gratis                    | Kost veel tijd en is lastig als je nog nooit Linux hebt gebruikt, elektriciteitskosten        |
+| C     | Minder technische personen| Weinig kosten en snel     | Kost wat tijd, maar hoeft niet moeilijker te zijn dan simpelweg de stappen te volgen          |
+| D     | Als je het kunt betalen   | Makkelijk en snel         | Hoge (financiële) kosten in vergelijking met de andere opties                                 |
 
-##### Route A: Bitcoin-Core on your day to day computer
-- Download <a href="https://github.com/lightning-power-users/node-launcher/releases" target="_blank">NodeLauncher</a>, a simple program to help you intstall bitcoin core.
+##### Optie A: Bitcoin-Core op je gewone PC
+- Download <a href="https://github.com/lightning-power-users/node-launcher/releases" target="_blank">NodeLauncher</a>, een programma dat je helpt bitcoin core op je PC te installeren.
 
-##### Route B: Bitcoin-core on an available always-on computer
-- Video Tutorial: <a href="https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h" target="_blank">Install Linux</a> & <a href="https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk" target="_blank">Install Core</a>
-- Written Tutorial <a href="https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea" target="_blank">Option 1 </a> / <a href="https://github.com/k3tan172/ubuntu-node-box/" target="_blank">Option 2</a>
+##### Optie B: Bitcoin-core op een PC die altijd aan staat
+- Video Tutorials: <a href="https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h" target="_blank">Install Linux</a> & <a href="https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk" target="_blank">Install Core</a>
+- Geschreven Tutorials: <a href="https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea" target="_blank">Option 1 </a> / <a href="https://github.com/k3tan172/ubuntu-node-box/" target="_blank">Option 2</a>
 
 
-##### Route C: Build a standalone node
-- Enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/" target="_blank">MyNodeBTC</a>
-- Samourai Wallet Users: <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a>
-- Other Options: <a href="https://stadicus.github.io/RaspiBolt/" target="_blank">RaspiBolt</a> / <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a>
+##### Optie C: Bouw een gespecialiseerde Node
+- Voor wanneer je je eigen full-stack Bitcoin Node wilt hebben met veel opties: <a href="http://mynodebtc.com/" target="_blank">MyNodeBTC</a>
+- Voor Samourai Wallet gebruikers: <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a>
+- Andere opties: <a href="https://stadicus.github.io/RaspiBolt/" target="_blank">RaspiBolt</a> / <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a>
 
-##### Route D: Buy a pre-built standalone node
-- Price sensitive enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://raspiblitz.com/" target="_blank">Raspiblitz</a> (<a href="https://shop.fulmo.org/" target="_blank">EU</a> / <a href="https://lightninginabox.co/product/raspiblitz-raspberry-pi-lightning-node/" target="_blank">USA </a>)
-- Enthusiasts who want high performance: <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a>
+##### Optie D: Koop een voorgebouwde gespecialiseerde Node
+- Een iets goedkopere optie met je eigen full-stack Bitcoin Node: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://shop.fulmo.org/" target="_blank">Raspiblitz</a> 
+- Maximale performance: <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a>
 
 -----
 
-## Stap 8. Joining In
-*Doel: Discover how to get involved in discussions about bitcoin.*
+## Stap 8. Meedoen
+*Doel: Ontdekken hoe je kunt bijdragen aan Bitcoin en de discussie rond Bitcoin.*
 
-1. Attend a <a href="https://bitcoin-only.com/#meetups" target="_blank">local meetup</a>
-2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Subscribe</a> to bitcoin op-tech
-3. Join Twitter and follow bitcoiners you come across.
+1. Ga naar een <a href="https://bitcoin-only.com/#meetups" target="_blank">lokale  meetup</a>
+2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Subscribe</a> je op bitcoin op-tech
+3. Maak een Twitter-account aan en volg bitcoiners die je tegenkomt 
 
 -----
 
 ## Stap 9. Bitcoin privacy
-*Doel: Understand how and why to use bitcoin in a private way*
+*Doel: Begrijpen hoe je Bitcoin op een private manier kunt gebruiken*
 
-1. Read how to <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">Hodl Privately</a>
-2. Read about <a href="https://6102bitcoin.com/img/001_What_is_bitcoin_taint.png" target="_blank">What is bitcoin taint</a>,  <a href="https://6102bitcoin.com/img/002_Are_Chain_Analysis_Heuristics_Reliable.png" target="_blank">Are Chain Analysis Heuristics reliable</a> & <a href="https://6102bitcoin.com/img/003_Blacklisting_Distance_Proximity.png" target="_blank">Blacklisting, Distance & Proximity</a>
-3. Learn more about <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_Discussion/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>
+1. Lees hoe je <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">privaat Hodl't</a>
+2. Lees <a href="https://6102bitcoin.com/img/001_What_is_bitcoin_taint.png" target="_blank">What is bitcoin taint</a>,  <a href="https://6102bitcoin.com/img/002_Are_Chain_Analysis_Heuristics_Reliable.png" target="_blank">Are Chain Analysis Heuristics reliable</a> &amp; <a href="https://6102bitcoin.com/img/003_Blacklisting_Distance_Proximity.png" target="_blank">Blacklisting, Distance &amp; Proximity</a>
+3. Leer meer over <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_Discussion/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>
 
 -----
 
 ## Stap 10. Bitcoin MicroPayments
-*Doel: Understand what the lightning network is and how you can use it.*
+*Doel: Leren over het Lightning Network en hoe je het kunt gebruiken*
 
 1. Download a non-custodial bitcoin lightning wallet
 2. Transfer some bitcoin to it (a small amount)
@@ -188,7 +188,7 @@ Though the methods explained in Step 2 are simple and easy for buying your first
 | Email & Phone         | **Not Required**      | Required              | Required              |
 | Name & Address        | **Not Required**      | **Not Required**      | Required              |
 | Relative Privacy      | **Great**             | Fair                  | Fair                  |
-| Examples              | BISQ / Vouchers | Bittr          | CashApp / Bull Bitcoin |
+| Examples              | BISQ / Vouchers       | Bittr                 | CashApp / Bull Bitcoin |
 
 ##### BISQ
 0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Install BISQ
