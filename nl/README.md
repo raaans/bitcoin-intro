@@ -148,7 +148,7 @@ N.b.: Het gebruiken van een Node heeft alleen maar voordeel als je hem ook daadw
 -----
 
 ## Stap 9. Bitcoin privacy
-*Doel: Begrijpen hoe je Bitcoin op een private manier kunt gebruiken*
+*Doel: Begrijpen hoe je Bitcoin op een privacy-vriendelijke manier kunt gebruiken*
 
 1. Lees hoe je <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">privaat Hodl't</a>
 2. Lees <a href="https://6102bitcoin.com/img/001_What_is_bitcoin_taint.png" target="_blank">What is bitcoin taint</a>,  <a href="https://6102bitcoin.com/img/002_Are_Chain_Analysis_Heuristics_Reliable.png" target="_blank">Are Chain Analysis Heuristics reliable</a> &amp; <a href="https://6102bitcoin.com/img/003_Blacklisting_Distance_Proximity.png" target="_blank">Blacklisting, Distance &amp; Proximity</a>
@@ -156,50 +156,51 @@ N.b.: Het gebruiken van een Node heeft alleen maar voordeel als je hem ook daadw
 
 -----
 
-## Stap 10. Bitcoin MicroPayments
+## Stap 10. Micro-betalingen met Bitcoin
 *Doel: Leren over het Lightning Network en hoe je het kunt gebruiken*
 
-1. Download a non-custodial bitcoin lightning wallet
-2. Transfer some bitcoin to it (a small amount)
-3. Send bitcoin over lightning
-4. Watch <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
-5. Read <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
+1. Kijk <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
+2. Lees <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
+3. Download een bitcoin lightning wallet, bijvoorbeeld <a href="https://breez.technology/" target="_blank">Breeze Wallet</a>
+4. Stuur wat sats (1/100 miljoenste bitcoin) naar de wallet
+5. (Als je iemand anders met een lightning wallet kent, of iets kunt kopen via Lightning:) Verstuur je sats naar een ander Lightning adres
 
 -----
 
-## Stap 11. Technical Details
-*Doel: Better understand how bitcoin works & the terminology*
+## Stap 11. Technische Details
+*Doel: Beter begrijpen hoe Bitcoin werkt en de technische termen leren kennen*
 
-1. Watch <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
-2. Watch <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
+1. Kijk <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
+2. Kijk <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
 
 -----
 
-## Stap 12. Buying Privately
+## Stap 12. Privacy-vriendelijk Bitcoin kopen
 
-Though the methods explained in Step 2 are simple and easy for buying your first bitcoin it is worth considering more private options for further buying.
+De manieren van Bitcoin kopen die in stap 2 beschreven zijn, zijn makkelijk in gebruik, maar je geeft er wel je persoonsgegevens mee vrij, die voor altijd te linken zullen zijn aan je bitcoin adres. Hier zijn een aantal verschillende manieren om op een privacy-vriendelijke manier je sats te kopen.
 
 ##### Overview table
 
-|                       | Private Methods       | Semi-Private Methods  | Non-Private Methods   |
-| ---                   | ---                   | ---                   | ---                   |
-| Method of Payment     | Cash                  | Bank Transfer         | Debit Card            |
-| Interface             | In person             | Website               | Website               |
-| Email & Phone         | **Not Required**      | Required              | Required              |
-| Name & Address        | **Not Required**      | **Not Required**      | Required              |
-| Relative Privacy      | **Great**             | Fair                  | Fair                  |
-| Examples              | BISQ / Vouchers       | Bittr                 | CashApp / Bull Bitcoin |
+|                       | Privé                 | Semi-privé            | Niet privé                |
+| ---                   | ---                   | ---                   | ---                       |
+| Betaalmethode         | Cash Geld             | Bankoverschrijving    | Pinpas                    |
+| Interface             | Persoonlijk           | Website               | Website                   |
+| Email & Telefoon      | **Niet Nodig**        | Verplicht             | Verplicht                 |
+| Naam & adres          | **Niet Nodig**        | **Niet Nodig**        | Verplicht                 |
+| Relatieve Privacy     | **Goed**              | Redelijk              | Redelijk                  |
+| Voorbeelden           | BISQ / Vouchers       | Bittr                 | CashApp / Bull Bitcoin    |
 
 ##### BISQ
-0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Install BISQ
-1. Set local currency
-2. Look for local sellers (Select BUY BTC button on top ribbon )
-3. Buy from local seller (Select Create new offer to buy BTC with ... )
-4. Withdraw bitcoin to bitcoin address from Step 1.
+0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Installeer BISQ
+1. Stel je lokale valuta in
+2. Klik bovenin op BUY BTC
+3. Maak een kooporder aan (Create offer to buy BTC with [...])
+4. Stuur je geld naar de verkoper zoals aangegeven in BISQ 
+5. Verstuur je Bitcoin naar het adres wat je in stap 1 hebt aangemaakt
 
-*Note: As stated when installing BISQ, the user is responsible for using the software in compliance with local laws.*
+*Let op: BISQ is peer-to-peer, wat inhoudt dat je van een individu koopt. Je bent zelf verantwoordelijk om je aan lokale wetten & regels te houden*
 
 ##### Vouchers
-0.  Check whether there are any merchants near you who sell vouchers on <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> or <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
-1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
-2.  When prompted, paste your first bitcoin address from Step 1.
+0.  Kijk of er verkopers van <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> of <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a> vouchers in je buurt zijn.
+1.  Als die er zijn, koop een voucher en volg de instructies.
+2.  Verzend de gekochte bitcoin naar je adres uit stap 1
