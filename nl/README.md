@@ -35,10 +35,10 @@
 
 -----
 
-## Stap 2. Koop wat bitcoin 
+## Stap 2. Koop bitcoin 
 *Doel: Een kleine hoeveelheid bitcoin in je wallet krijgen*
 
-- Koop om te beginnen een klein beetje bitcoin, zodat je weet hoe het werkt
+- Koop om te beginnen een kleine hoeveelheid sats (of "satoshi's", 1/100 miljoenste bitcoin), zodat je kunt uitvinden hoe het kopen werkt
 - De eerste manier is snel & makkelijk, maar is niet privé - de verkoper weet dus wie je bent
 - Hoe je bitcoin op een privé-manier kunt kopen lees je in <a href="#step-12-buying-privately" target="_blank">stap 12</a>
 - Bitcoin-intro heeft geen connectie met de hieronder genoemde manieren om bitcoin te kopen
@@ -72,8 +72,8 @@ Gefeliciteerd! Je hebt nu (een gedeelte van een) bitcoin. Zo lang je de 24 woord
 
 -----
 
-## Stap 5. Further Learning
-*Doel: Further develop your understanding of bitcoin*
+## Stap 5. Nóg meer leren
+*Doel: Leer meer over Bitcoin, hoe het werkt, en waarom het belangrijk is *
 
 ###### Luister
 1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">Presentatie over The Bitcoin Standard</a> 
@@ -162,7 +162,7 @@ N.b.: Het gebruiken van een Node heeft alleen maar voordeel als je hem ook daadw
 1. Kijk <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
 2. Lees <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
 3. Download een bitcoin lightning wallet, bijvoorbeeld <a href="https://breez.technology/" target="_blank">Breeze Wallet</a>
-4. Stuur wat sats (1/100 miljoenste bitcoin) naar de wallet
+4. Stuur wat sats naar de wallet
 5. (Als je iemand anders met een lightning wallet kent, of iets kunt kopen via Lightning:) Verstuur je sats naar een ander Lightning adres
 
 -----
