@@ -1,6 +1,6 @@
 <!-- Version: 0.01 NL -->
 
-| <a href="/" >English</a> | <a href="/de/">Deutsch</a> | <a href="/es/">Español</a> | <a href="/nl/">Nederlands</a>
+| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a> |
 
 ###### Belangrijke Principes
 - Simpel beginnen en jezelf verbeteren is beter dan helemaal niet beginnen
@@ -162,7 +162,7 @@ N.b.: Het gebruiken van een Node heeft alleen maar voordeel als je hem ook daadw
 1. Kijk <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
 2. Lees <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
 3. Download een bitcoin lightning wallet, bijvoorbeeld <a href="https://breez.technology/" target="_blank">Breeze Wallet</a>
-4. Stuur wat sats naar de wallet
+4. Stuur wat sats (1/100 miljoenste bitcoin) naar de wallet
 5. (Als je iemand anders met een lightning wallet kent, of iets kunt kopen via Lightning:) Verstuur je sats naar een ander Lightning adres
 
 -----

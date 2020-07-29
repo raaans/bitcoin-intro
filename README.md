@@ -1,6 +1,6 @@
-<!-- Version: 0.01 EN -->
+<!-- Version: 0.03 EN -->
 
-| <a href="/" >English</a> | <a href="/de/">Deutsch</a> | <a href="/es/">Español</a> |
+| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a> | <a href="/nl/">Nederlands</a>
 
 ###### Guiding Principles
 - Starting simply and improving is better than than not starting at all
@@ -28,10 +28,10 @@
 ## Step 1. Get a Wallet
 *Aim: Make and backup a bitcoin wallet*
 
-1. 	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
-2.	Make a new wallet and write down the 24 words presented to you using pen and paper. These 24 words act as a key to access your bitcoin.
+1. 	Download <a href="https://play.google.com/store/apps/details?id=com.samourai.wallet" target="_blank">Samourai Wallet</a> for Android or <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet for iOS</a>.
+2.	Make a new wallet and write down the words presented to you using pen and paper. These words act as a key to access your bitcoin.
 3.  Make another copy of these words (again, using pen and paper) and put them both somewhere hidden/safe in your house.
-4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
+4.	In the wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
 
 -----
 
@@ -42,29 +42,41 @@
 - These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
 - Buying Privately is detailed in a <a href="#step-12-buying-privately" target="_blank">later step.</a>
 
-##### USD (1.5% Fee)
-0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
-1.	Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
-2.	Make an account & connect a Debit Card.
-3.	Buy 25 USD of BTC.
-4.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
-5.	Wait for the funds to appear in green wallet (< 24 hrs).
+USD (1.5% Fee)
 
-##### CAD (BullBitcoin - 0.25% Fee)
-0.  Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
-1.  Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
-2.  Deposit 25 CAD & Buy 25 CAD worth of bitcoin
-3.	Paste your first bitcoin address from Step 1
-4.	Wait for the funds to appear in green wallet (< 24 hrs).  
+0. Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a> 
+1. Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
+2. Make an account & connect a Debit Card.
+3. Buy 25 USD of BTC.
+4. Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1. 5. Wait for the funds to appear in green wallet (< 24 hrs).
 
-##### CHF (any SBB ticket machine - 6% Fee)
-0. Go out. You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine.
-1. First select “Prepaid” then “Top up Bitcoin”
+AUD (0% Fee)
+
+0. Check Bitaroo on <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot</a> 
+1. Go to <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo Express Buy</a>.
+2. Sign up & deposit 25 AUD.
+3. Buy 25 AUD of BTC.
+4. Click 'Withdraw', paste your first bitcoin address from Step 1, click 'max' amount to withdraw, confirm.	
+5. Wait for the funds to appear in green wallet (< 24 hrs).
+
+
+CAD (BullBitcoin - 0.25% Fee)
+
+0. Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
+1. Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
+2. Deposit 25 CAD & Buy 25 CAD worth of bitcoin
+3. Paste your first bitcoin address from Step 1
+4. Wait for the funds to appear in green wallet (< 24 hrs)
+
+CHF (any SBB ticket machine - 6% Fee)
+
+0. Withdraw cash (CHF or EUR) & Locate an SBB ticket machine. 
+1. Select “Prepaid” then “Top up Bitcoin”
 2. Scan the QR code on your Bitcoin wallet
 3. Enter your desired amount (any sum between CHF 100 and CHF 500)
 4. Confirm the offer received
 5. Enter your mobile number and the security code (mTAN) sent to your phone
-6. You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR)
+
 
 Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your bitcoin wallet.
 
